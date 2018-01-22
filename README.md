@@ -5,11 +5,7 @@
 
 ### Веб-приложения, использующие Markdown
 
-1.Викис    
-    1. DokuWiki (с помощью плагина)    
-    2. ikiwiki    
-    3. Oddmuse    
-    4. PmWiki (с помощью плагина)
+1.Викис    1. DokuWiki (с помощью плагина)    2. ikiwiki    3. Oddmuse    4. PmWiki (с помощью плагина)
 
 
     
