@@ -7,9 +7,9 @@
 
 1.Викис    
     i. DokuWiki (с помощью плагина)    
-    ii.ikiwiki    
-    iii.Oddmuse    
-    iv.PmWiki (с помощью плагина)
+    ii. ikiwiki    
+    iii. Oddmuse    
+    iv. PmWiki (с помощью плагина)
 
 
     
